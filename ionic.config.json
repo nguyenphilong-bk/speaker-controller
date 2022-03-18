@@ -1,0 +1,8 @@
+{
+  "name": "Speaker Controller",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5d4799f4"
+}
